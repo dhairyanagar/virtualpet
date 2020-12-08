@@ -6,10 +6,10 @@ var dog, happyDog, database,foodS, foodStock,dogimage,hdogimage,milk,milkimage
 function preload()
 {
   //load images here
-  dogimage= loadImage("images/dogImg.png")
-  hdogimage= loadImage("images/dogImg1.png")
+  dogimage= loadImage("dogImg.png")
+  hdogimage= loadImage("dogImg1.png")
   
- milkimage= loadImage("images/milk.png")
+ milkimage= loadImage("milk.png")
 }
 
 function setup() {
